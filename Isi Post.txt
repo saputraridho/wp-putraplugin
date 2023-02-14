@@ -1,0 +1,7 @@
+uji coba shortcode
+
+[iklan]
+
+ppp
+
+[whatsapp nohp="085257255213" pesan="Peler" text="Chat Disini"]
